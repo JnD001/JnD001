@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JnD001
+- 👋 Hi, I’m @Junaid
 - 👀 I’m interested in reading and programming.
 - 🌱 I’m currently learning BCA with AI & DSc.
 - 💞️ I’m looking to collaborate on ...
